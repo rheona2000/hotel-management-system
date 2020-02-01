@@ -1,0 +1,2 @@
+# hotel-management-system
+A project on hotel management system ,Hotel Management System project provides room booking and other necessary hotel management features. The purpose of this project is to provide quality and standard services to the customer that stay in a Hotel or come to a Restaurant. Sometime it happens that the rooms get booked soon when one visits the place therefore user can make advance booking using this system. This system is eﬀective and saves time and cost of user.
